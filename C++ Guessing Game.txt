@@ -1,0 +1,15 @@
+START
+
+	Generate Random Number Between 1 and 100
+
+	start loop
+		ask user to guess number
+		user input a number
+		if
+			Number lower than random number
+			display "Too low"
+		if else
+			Number higher than random number
+			display "Too High"
+		else
+			Display "You guessed it!"
